@@ -5,7 +5,7 @@ class Appointment
     @date = date
     @doctor = doctor
     #genre.add_song(self)
-    doctor.add_appointment(self)
-    patient.add_appointment(self)
+    #doctor.add_appointment(self)
+    #patient.add_appointment(self)
   end
 end
