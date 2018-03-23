@@ -5,4 +5,13 @@ class Genre
     @name = name
     @songs = []
   end
+
+  def songs
+    @songs
+  end
+
+  def artist
+
+  end
+  
 end
